@@ -1,6 +1,5 @@
 // DDA dotted
 
-// DDA dotted
 #include <stdio.h>
 #include <conio.h>
 #include <graphics.h>
