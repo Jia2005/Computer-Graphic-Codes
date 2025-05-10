@@ -1,4 +1,4 @@
-#  Computer Graphic's Algorithms 🎨
+#  Computer Graphic's Algorithms ⚙️⚙️
 
 The digital playground where I battled coordinate systems and won! ✨✨
 
